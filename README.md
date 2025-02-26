@@ -10,8 +10,6 @@ Frontend-focused developer with expertise in building scalable web applications 
 
 ## 🎓 Education
 - B.Tech in Information Technology (CGPA: 7.02) - AITAM, Tekkali (2021)
-- Intermediate MPC (67%) - Vijay Chaitanya, Visakhapatnam (2017)
-- SSC (CGPA: 7.0) - Government High School, Kaviti (2015)
 
 ## 💼 Professional Journey
 
