@@ -19,7 +19,7 @@ Frontend-focused developer with expertise in building scalable web applications 
 - Building responsive web applications with React.js and Next.js
 - Implementing and maintaining CI/CD pipelines
 - Managing AWS infrastructure (Lambda, Amplify, Step Functions)
-- Setting up cross-account connections and new AWS environments
+- Setting up cross-account connections between Multiple Cloud Envirnoments
 - Working with GraphQL and Cognito for API interactions
 - Developing Terraform modules for infrastructure management
 
